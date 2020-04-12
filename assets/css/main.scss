@@ -8,5 +8,7 @@ $serif: "Roboto Slab", "Trebuchet MS", serif !default;
 $sans-serif: Roboto, sans-serif !default;
 $monospace: "Roboto Mono", monospace !default;
 
+$header-font-family: $serif !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
