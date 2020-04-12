@@ -3,7 +3,21 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+
+events:
+  - title: General Preparation
+    children:
+      - title: "Quick-Start Guide"
+        url: /events/quick-start-guide/
+
+  - title: In-person events
+    children:
+      - title: "Who to invite"
+        url: /events/invites/
+
+  - title: Virtual reviews
+    children:
+      - title: "Read-only Document Sharing"
+        url: /events/readonly-doc-sharing/
