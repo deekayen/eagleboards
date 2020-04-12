@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fas fa-pen'></i> Schedule an Appointment"
   cta_url: "https://www.signupgenius.com/go/4090544abae2daafa7-etowah"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Eagle Boards and Eagle Project Proposal Reviews are scheduled on the Fourth Tuesday of each month by appointment only at <a href="https://www.google.com/maps?hl=en&um=1&ie=UTF-8&cid=0,0,14300186515878948521&fb=1&split=1&gl=us&dq=the+good+sheperd+church+in+cumming,+ga&daddr=3740+Holtzclaw+Rd,+Cumming,+GA+30041-3502&geocode=3410681070378521919,34.252243,-84.070114&ei=T3WDSpatOJCEmQer6vHZBg&sa=X&oi=local_result&ct=directions-to&resnum=1">The Good Shepherd Church at 3740 Holtzclaw Rd Cumming, GA 30041-3502</a>'
 feature_row:
   - image_path: scouts_line.jpg
     alt: "Project Proposals"
