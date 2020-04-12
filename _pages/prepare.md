@@ -1,8 +1,8 @@
 ---
-title: Events
+title: Prepare
 layout: collection
-permalink: /events/
-collection: events
+permalink: /prepare/
+collection: prepare
 entries_layout: grid
 classes: wide
 ---
