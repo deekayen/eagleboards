@@ -67,12 +67,12 @@ footer:
 
 # Collections
 collections:
-  events:
+  prepare:
     output: true
     permalink: /:collection/:path/
 
 defaults:
-  # _events
+  # _prepare
   - scope:
       path: ""
       type: events
@@ -83,7 +83,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "events"
+        nav: "prepare"
   # _posts
   - scope:
       path: ""

@@ -1,5 +1,6 @@
 ---
 title: "Twelve Steps from Life to Eagle"
+permalink: /prepare/twelve-steps
 last_modified_at: 2020-04-12T17:21:10-05:00
 ---
 

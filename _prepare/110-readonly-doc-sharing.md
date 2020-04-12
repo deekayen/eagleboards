@@ -1,5 +1,6 @@
 ---
 title: "Read-only Document Sharing"
+permalink: /prepare/readonly-doc-sharing
 last_modified_at: 2020-04-12T13:20:10-05:00
 ---
 

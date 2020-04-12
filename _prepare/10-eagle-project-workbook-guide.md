@@ -1,5 +1,6 @@
 ---
 title: "Eagle Project Workbook Guide"
+permalink: /prepare/eagle-project-workbook-guide
 last_modified_at: 2020-04-12T17:21:10-05:00
 ---
 
