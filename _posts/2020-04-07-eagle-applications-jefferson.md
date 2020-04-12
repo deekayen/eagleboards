@@ -1,7 +1,5 @@
 ---
 title: "Eagle Applications and the Jefferson Service Center"
-layout: single
-classes: wide
 last_modified_at: 2020-04-12T13:20:10-05:00
 ---
 

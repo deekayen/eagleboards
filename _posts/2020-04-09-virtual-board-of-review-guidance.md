@@ -1,7 +1,5 @@
 ---
 title: "Virtual Eagle Board of Review Guidance"
-layout: single
-classes: wide
 last_modified_at: 2020-04-12T12:34:44-05:00
 ---
 

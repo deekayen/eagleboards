@@ -65,7 +65,25 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deekayen/eagleboards"
 
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "events"
   # _posts
   - scope:
       path: ""
@@ -73,9 +91,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      classes: wide
       comments: false
       share: false
+      read_time: false
       related: true
   # _pages
   - scope:

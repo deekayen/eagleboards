@@ -1,7 +1,5 @@
 ---
 title: "Eagle Verification Process During Shelter in Place"
-layout: single
-classes: wide
 last_modified_at: 2020-04-12T13:03:57-05:00
 ---
 
