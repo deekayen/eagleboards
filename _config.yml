@@ -46,18 +46,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Leading the Way"
   links:
-    - label: "Northeast Georgia BSA"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.nega-bsa.org/etowah-eagle-board"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/EtowahDistrictNEGA/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/negabsa/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/deekayen/eagleboards"
+    - label: "advancement@etowah-bsa.org"
+      icon: "fas fa-fw fa-inbox"
+      url: "mailto:advancement@etowah-bsa.org"
 
 footer:
   links:
