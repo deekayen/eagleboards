@@ -6,18 +6,22 @@ main:
   - title: "About"
     url: /about/
 
-events:
+prepare:
   - title: General Preparation
     children:
       - title: "Quick-Start Guide"
-        url: /events/quick-start-guide/
+        url: /prepare/quick-start-guide/
+      - title: "Twelve Steps from Life to Eagle"
+        url: /prepare/twelve-steps/
+      - title: "Eagle Project Workbook Guide"
+        url: /prepare/eagle-project-workbook-guide/
 
   - title: In-person events
     children:
       - title: "Who to invite"
-        url: /events/invites/
+        url: /prepare/invites/
 
   - title: Virtual reviews
     children:
       - title: "Read-only Document Sharing"
-        url: /events/readonly-doc-sharing/
+        url: /prepare/readonly-doc-sharing/
