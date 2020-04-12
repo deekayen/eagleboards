@@ -47,7 +47,7 @@ author:
   bio    : "Leading the Way"
   links:
     - label: "Northeast Georgia BSA"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.nega-bsa.org/etowah-eagle-board"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
@@ -62,7 +62,7 @@ author:
 footer:
   links:
     - label: "Northeast Georgia BSA"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.nega-bsa.org/etowah-eagle-board"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
