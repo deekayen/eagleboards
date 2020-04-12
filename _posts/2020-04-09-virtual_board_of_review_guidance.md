@@ -27,9 +27,8 @@ _At least two days before your Board of Review,_ transmit PDF copies of the foll
 * A copy of the documentation listed above.
 * Even though you are at home, the Board of Review members want to see you at your Scouting best, so please wear your Class-A uniform, or the uniform you normally wear to Troop meetings.
 * A computer with webcam, speakers, and microphone (or headset, if you choose), successfully tested with Zoom.
-    * Check what is appearing in your camera’s view and remove personal,
-confidential, and inappropriate items that might appear in the background. o Check the lighting of the room to make sure that it is sufficient (includes
-being able to see your face on the camera).
+    * Check what is appearing in your camera’s view and remove personal, confidential, and inappropriate items that might appear in the background.
+    * Check the lighting of the room to make sure that it is sufficient (includes being able to see your face on the camera).
     * Check your internet connection.
     * Check how your name appears in the Zoom meeting and update it accordingly if needed.
 
@@ -42,8 +41,7 @@ policy, which means:
 visible with you at the beginning of the video conference. Once all Board of Review members have joined, anyone else present with you will need to move out of camera view and hearing distance.
     * At the conclusion of the Board of Review, you will be instructed to have your parent(s) or leaders rejoin you. They will need to rejoin before the Board of Review can end.
 
-The District Advancement Team’s goal...
-...is to provide you the best experience possible with your virtual Eagle Board of Review. And realize that that the Committee’s goal is to ensure that your Eagle Board of Review will be one of those most cherished moments to remember within your lifetime.
+The District Advancement Team’s goal is to provide you the best experience possible with your virtual Eagle Board of Review. And realize that that the Committee’s goal is to ensure that your Eagle Board of Review will be one of those most cherished moments to remember within your lifetime.
 Please reach out if there are any questions. Yours in cheerful service,
 
 The Etowah District Advancement Team
