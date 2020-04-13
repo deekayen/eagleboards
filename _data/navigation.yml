@@ -13,6 +13,8 @@ prepare:
         url: /prepare/quick-start-guide
       - title: "Twelve Steps from Life to Eagle"
         url: /prepare/twelve-steps
+      - title: "Eagle Procedures"
+        url: /prepare/eagle-procedures
       - title: "Eagle Project Workbook Guide"
         url: /prepare/eagle-project-workbook-guide
       - title: "What to Expect"
