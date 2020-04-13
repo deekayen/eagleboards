@@ -1,5 +1,5 @@
 ---
-title: "Quick Start Guide"
+title: "Quick-Start Guide"
 permalink: /prepare/quick-start-guide
 last_modified_at: 2020-04-12T17:01:10-05:00
 ---
