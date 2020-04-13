@@ -82,6 +82,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      toc: true
       sidebar:
         nav: "prepare"
   # _posts
