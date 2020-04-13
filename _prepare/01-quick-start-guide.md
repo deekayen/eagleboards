@@ -12,7 +12,7 @@ Scouts must schedule their Project Review or Board of Review by the 3rd Tuesday 
 
 Scouts scheduling a Project Review do not need to submit their workbooks to the Jefferson Service Center and should bring two extra copies with you on the night of the Project Review.
 
-If you have questions that have not been answered, please contact the Etowah District Advancement Committee Chair, Bill Talbot, via email at <advancement@etowah-bsa.org>
+If you have questions that have not been answered, please contact the Etowah District Advancement Committee, via email at <advancement@etowah-bsa.org>.
 
 Detailed information regarding Eagle Projects and the Eagle Board of Review supplied by the Etowah District Advancement Committee
 
