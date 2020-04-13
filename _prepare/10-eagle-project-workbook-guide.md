@@ -51,7 +51,7 @@ When the Scout first became aware that he desired to choose this project for his
 
 Plan your work by describing the􏰀
 1. present condition,􏰁
-2. the method,􏰂
+2. the method,
 3. materials to be used,􏰃
 4. project helpers, and a􏰄
 5. time schedule for carrying out the project,􏰅
@@ -74,7 +74,7 @@ Plan your work by describing the􏰀
     * Will permits be required?
     * Will opportunities exist for other Scouts to earn advancement?
     * Is each step or task of the project documented in the manner in which someone else of equal ability could be able to follow?
-􏰂3. Materials – A complete detailed list of all items, including quantities needed, reduces confusion and delays during implementation.
+3. Materials – A complete detailed list of all items, including quantities needed, reduces confusion and delays during implementation.
     * Do the materials, including tools, support the tasks and the tasks support the materials?
     * Where and how will the materials be procured?
 􏰃4. Project Helpers –
