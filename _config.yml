@@ -75,7 +75,7 @@ defaults:
   # _prepare
   - scope:
       path: ""
-      type: events
+      type: prepare
     values:
       layout: single
       read_time: false
