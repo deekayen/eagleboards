@@ -27,8 +27,8 @@ The Board of Review for an Eagle candidate is composed of at least three but not
 The Board members need to convene prior to interviewing the candidate (15 to 30 minutes.) The purpose of meeting before the actual interview is to:
 
 1. Review the prospective Eagle Scout's application.
-2. Read his reference letters and other important documents.
-3. Become familiar with his service project by assessing his final report and any available pictures.
+2. Read their reference letters and other important documents.
+3. Become familiar with their service project by assessing their final report and any available pictures.
 4. Review these guidelines to help formulate pertinent questions.
 
 During this initial meeting, the Chairman makes sure everyone is introduced to one another, sees that everyone has an opportunity to review all the paperwork and determines that all understand the goals of this Board, which are:
@@ -50,7 +50,7 @@ The following guidelines must be kept in mind during the questioning of the proj
 2. The Board should attempt to determine the Scout's attitude toward and acceptance of Scouting's ideals
 3. The Board should make sure that good standards of performance have been met in all phases of their life.
 4. A discussion of the Scout Oath and Scout Law is in keeping with the questioning.
-5. Be sure the candidate recognizes and understands the value of Scouting in his home, unit, school and community.
+5. Be sure the candidate recognizes and understands the value of Scouting in their home, unit, school and community.
 6. The Scout should be encouraged to talk - don't ask questions answerable with a simple yes or no.
 
 ## The Board of Review
@@ -59,33 +59,33 @@ Once the Scout's Eagle Application, service project paperwork, letters of recomm
 
 ### The interview process
 
-1. Ask them questions about his understanding and adherence to the Scout Oath and Scout Law: The Board should make sure that good standards have  been met in all phases of the Scout's life. A  discussion of the Scout Oath and Scout Law is in keeping with the purpose of the review, to make sure that the candidate recognizes and understands the value of Scouting in his home, unit, school and community.
+1. Ask them questions about their understanding and adherence to the Scout Oath and Scout Law: The Board should make sure that good standards have  been met in all phases of the Scout's life. A  discussion of the Scout Oath and Scout Law is in keeping with the purpose of the review, to make sure that the candidate recognizes and understands the value of Scouting in their home, unit, school and community.
     * What is the hardest point of the Scout Law for them to live by - why?
     * What point of the Scout Law is the most important to them - why?
     * What does "Scouting Spirit" mean to them - why?
     * What do the various points of the Scout Law mean to them?
-    * What values has Scouting taught them that they think others see in them - at home, in his unit, at school and/or in the community?
+    * What values has Scouting taught them that they think others see in them - at home, in their unit, at school and/or in the community?
     * How do they live by the Scout Law and Oath?
     * What do the different points of the Scout Oath mean to them?
     * What does "duty to God" mean to them?
     * What does "duty to Country" mean to them?
     * How do they "help others at all times"?
     * How do they feel about wearing their uniform in public?
-2. Ask them questions about his camping experiences:
+2. Ask them questions about their camping experiences:
     * What was their most enjoyable experience in Scouting?
-    * Conversely, what was his least enjoyable experience?
+    * Conversely, what was their least enjoyable experience?
     * How many summer camps have they attended and where?
     * What did they enjoy most about their summer camp experiences?
     * Have they attended any High Adventure camps? Where and what did they enjoy about them - describe the experience.
-    * As them about his outdoor experiences in Scouting - campouts, 50 milers, etc.
+    * Ask them about their outdoor experiences in Scouting - campouts, 50 milers, etc.
     * Ask them what they remember of the "Outdoor Code".
     * Ask them if they have staffed any summer camps - what did they learn from the experience and what did they enjoy about the experience.
 3. Ask them questions related to their Scouting experience:
     * What leadership positions have they held?
         * What were their responsibilities in each position?
     * What leadership position do they hold now?
-    * Ask them what they would do if a scout refused to comply and/or ignored a valid request they made in the performance of his duties.
-    * Ask them about his troop's discipline policy and where they figure in it in their present leadership position.
+    * Ask them what they would do if a scout refused to comply and/or ignored a valid request they made in the performance of their duties.
+    * Ask them about their troop's discipline policy and where they figure in it in their present leadership position.
     * Ask them how they might handle "hurry-up" first aid cases.
     * Ask them other questions related to merit badges they have earned (remember you are not testing them).
         * Have they earned any merit badges that will help them in their choice of occupation?
@@ -95,7 +95,7 @@ Once the Scout's Eagle Application, service project paperwork, letters of recomm
     * If they earn their Eagle rank tonight, what do they intend to do to repay Scouting, their unit and its leaders?
     * Who has been the most influential person in their Scouting career?
     * Is there anything Scouting did not give them that they feel could be beneficial to the program to help other young scouts develop?
-4. Ask them pertinent questions about his project. The Board should make sure that a good standard of performance has been met.
+4. Ask them pertinent questions about their project. The Board should make sure that a good standard of performance has been met.
     * How did they find out about the need?
     * Ask them to walk the Board through the project from beginning to end.
         * The planning phase
@@ -103,16 +103,16 @@ Once the Scout's Eagle Application, service project paperwork, letters of recomm
         * Directing the project to completion
     * Did they have to contact any city, county or state officials for permits or to find out about ordinances, etc. - did the Citizenship in the Community Merit Badge help - how?
     * Once their project was approved, did they have to modify it - what did they learn from that experience?
-    * Who did they get involved in helping them with their project - scouts, adults from his troop, members of the benefiting organization...?
+    * Who did they get involved in helping them with their project - scouts, adults from their troop, members of the benefiting organization...?
     * Did they have any problems directing adults in their work - how did they feel about that?
     * In what ways do they feel they demonstrated leadership in this project?
     * Every scout feels their project was "special" - how is their project "special"?
-    * Thirty years from now when someone else asks them what they did for his Eagle project, what will stand out in their mind - how will they answer that question?
-5. Ask them about his plans for the future. The Board should attempt to determine the Scout's ideals and goals.
-    * Ask them about his plans for the future - college, Armed Forces, trade school?
+    * Thirty years from now when someone else asks them what they did for their Eagle project, what will stand out in their mind - how will they answer that question?
+5. Ask them about their plans for the future. The Board should attempt to determine the Scout's ideals and goals.
+    * Ask them about their plans for the future - college, Armed Forces, trade school?
     * How do they feel earning Eagle will help them in those plans?
     * When they turn 18, they assume some new responsibilities - What are they?
-        * Sign up for the draft, register to vote and responsible for his actions in the eyes of the law.
+        * Sign up for the draft, register to vote and responsible for their actions in the eyes of the law.
     * What should an Eagle Scout be expected to do and what responsibilities do they think come with the rank?
     * What do they plan to do in scouting in the immediate and long range future?
 
@@ -120,7 +120,7 @@ These are by no means the only questions that may be asked. They are merely exam
 
 ## After the Board of Review
 
-After the review, the candidate and his unit leader leave the room while the board members discuss the accept ability of the candidate as an Eagle Scout.
+After the review, the candidate and their unit leader leave the room while the board members discuss the accept ability of the candidate as an Eagle Scout.
 
 **Because of the importance of the Eagle Scout Award, the decision of the Board of Review must be unanimous.**
 
