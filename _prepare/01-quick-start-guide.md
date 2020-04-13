@@ -18,9 +18,7 @@ Detailed information regarding Eagle Projects and the Eagle Board of Review supp
 
 * [Eagle Scout Service Project Workbook](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/eagle-scout-workbook/) for organizing the Scout's Eagle project.
 * [Council Approved Eagle Project Workbook Guide](/prepare/eagle-project-workbook-guide) used by project reviewers should be referenced by the Life Scout in creation of his project workbook and reviewed by unit leadership and scout prior to requesting an appointment.
-* [Description](http://www.etowah-bsa.org/index.cfm/id:26) of an Eagle Board of Review, some ideas about what to expect.
-* [Eagle Board Procedure](http://www.etowah-bsa.org/index.cfm/id:28) A review of the procedures for Eagle Scout service project proposal approvals & Eagle Boards of Review.
-* [Eagle Scout Rank Application](http://www.scouting.org/filestore/pdf/512-728_WB_fillable.pdf) - Download the latest version of the application here
-
+* [Description of an Eagle Board of Review](/prepare/eagle-bor-expectations), some ideas about what to expect.
+* [Eagle Scout Rank Application](https://filestore.scouting.org/filestore/pdf/512-728_WB_Fillable.pdf) - Download the latest version of the application here
 
 After you have attained the rank of Eagle, you should consider joining the National Eagle Scout Association (NESA) ([Join NESA](http://www.nesa.org/))
