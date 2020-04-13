@@ -49,7 +49,7 @@ When the Scout first became aware that he desired to choose this project for his
 
 ## Project details
 
-Plan your work by describing the􏰀
+Plan your work by describing the
 1. present condition,􏰁
 2. the method,
 3. materials to be used,􏰃
@@ -60,7 +60,7 @@ Plan your work by describing the􏰀
 8. Describe any safety hazards you might face and
 9. explain how you will ensure the safety of those carrying out the project.
 
-􏰀1. **Present condition** – Describe the present conditions/situations/problem to be solved
+1. **Present condition** – Describe the present conditions/situations/problem to be solved
     * Pictures and drawings can help the committee make a decision.
     * How large is the area or items?
     * Can a drawing of existing landmarks clarify the proposal?
