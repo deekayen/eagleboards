@@ -50,11 +50,11 @@ When the Scout first became aware that he desired to choose this project for his
 ## Project details
 
 Plan your work by describing the
-1. present condition,􏰁
+1. present condition,
 2. the method,
-3. materials to be used,􏰃
-4. project helpers, and a􏰄
-5. time schedule for carrying out the project,􏰅
+3. materials to be used,
+4. project helpers, and a
+5. time schedule for carrying out the project,
 6. the estimated cost of the project, and
 7. 􏰆how the needed funds will be obtained.
 8. Describe any safety hazards you might face and
@@ -65,7 +65,7 @@ Plan your work by describing the
     * How large is the area or items?
     * Can a drawing of existing landmarks clarify the proposal?
     * Are pictures and drawings labeled?
-􏰁2. Method – A task level plan will help the Scout implement his project.
+2. Method – A task level plan will help the Scout implement his project.
     * How will _leadership be shown_?
     * What are the steps/tasks needed to accomplish the project?
     * How will the workers be trained?
@@ -77,12 +77,12 @@ Plan your work by describing the
 3. Materials – A complete detailed list of all items, including quantities needed, reduces confusion and delays during implementation.
     * Do the materials, including tools, support the tasks and the tasks support the materials?
     * Where and how will the materials be procured?
-􏰃4. Project Helpers –
+4. Project Helpers –
     * Who will be expected to help with the project?
     * How many helpers for each work day and for how many hours?
     * Will more than 50% of the work, excluding planning, be done by the Eagle Candidate?
     * How will helpers be recruited?
-􏰄5. Time Schedule – A definite date to begin implementation is not required.
+5. Time Schedule – A definite date to begin implementation is not required.
     * What steps, identified under “Methods”, will take place on workday #1, #2, etc?
     * What will take place prior to the first workday?
     * Has any work been performed prior to the proposal being approved?
@@ -90,7 +90,7 @@ Plan your work by describing the
 6. Estimated Cost —
     * How much cash will be needed to purchase the materials?
     * What is the estimated dollar value of all donated materials; i.e., lumber, plants, etc.
-􏰆7. How funded—
+7. How funded —
     * Where is the cash coming from?
     * Will a fund raising permit be needed?
     * What will happen if more money is raised than previously expected?
