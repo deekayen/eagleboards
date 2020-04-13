@@ -56,7 +56,7 @@ Plan your work by describing the
 4. project helpers, and a
 5. time schedule for carrying out the project,
 6. the estimated cost of the project, and
-7. 􏰆how the needed funds will be obtained.
+7. how the needed funds will be obtained.
 8. Describe any safety hazards you might face and
 9. explain how you will ensure the safety of those carrying out the project.
 

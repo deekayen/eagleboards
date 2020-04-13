@@ -59,16 +59,16 @@ The following guidelines must be kept in mind during the questioning of the proj
 
 Once the Scout's Eagle Application, service project paperwork, letters of recommendation and these guidelines are reviewed, the Scout master is asked to introduce the candidate to the Board. The Scoutmaster can be invited to remain as an observer and may be called upon to clarify a point in question - however, it is the scout's Board of Review. The candidate is usually asked to begin the Board by reciting the Scout Oath and Scout Law.
 
-### The interview process:
+### The interview process
 
 1. Ask him questions about his understanding and adherence to the Scout Oath and Scout Law: The Board should make sure that good standards have  been met in all phases of the Scout's life. A  discussion of the Scout Oath and Scout Law is in keeping with the purpose of the review, to make sure that the candidate recognizes and understands the value of Scouting in his home, unit, school and community.
     * What is the hardest point of the Scout Law for him to live by - why?
     * What point of the Scout Law is the most important to him - why?
     * What does "Scouting Spirit" mean to him - why?
     * What do the various points of the Scout Law mean to him?
-    * What values has Scouting taught him that he thinks others see in him - at home, in his unit, at school and/ or in the community?
-    * How does he live by the Scout Law and Oath?
-    * What do the different points of the Scout Oath mean to him?
+    * What values has Scouting taught them that they think others see in them - at home, in his unit, at school and/or in the community?
+    * How do they live by the Scout Law and Oath?
+    * What do the different points of the Scout Oath mean to them?
     * What does "duty to God" mean to them?
     * What does "duty to Country" mean to them?
     * How do they "help others at all times"?
@@ -77,18 +77,18 @@ Once the Scout's Eagle Application, service project paperwork, letters of recomm
     * What was their most enjoyable experience in Scouting?
     * Conversely, what was his least enjoyable experience?
     * How many summer camps have they attended and where?
-    * What did he enjoy most about his summer camp experiences?
-    * Has he attended any High Adventure camps where and what did he enjoy about  them - describe the experience.
+    * What did they enjoy most about their summer camp experiences?
+    * Have they attended any High Adventure camps? Where and what did they enjoy about them - describe the experience.
     * As them about his outdoor experiences in Scouting - campouts, 50 milers, etc.
-    * Ask them what he remembers of the "Outdoor Code".
-    * Ask them if he has staffed any summer camps - what did he learn from the experience and what did he enjoy about the experience.
+    * Ask them what they remember of the "Outdoor Code".
+    * Ask them if they have staffed any summer camps - what did they learn from the experience and what did they enjoy about the experience.
 3. Ask them questions related to their Scouting experience:
     * What leadership positions have they held?
         * What were their responsibilities in each position?
     * What leadership position do they hold now?
     * Ask them what they would do if a scout refused to comply and/or ignored a valid request they made in the performance of his duties.
-    * Ask him about his troop's discipline policy and where he figures in it in his present leadership position.
-    * Ask him how he might handle "hurry-up" first aid cases.
+    * Ask them about his troop's discipline policy and where they figure in it in their present leadership position.
+    * Ask them how they might handle "hurry-up" first aid cases.
     * Ask him other questions related to merit badges he has earned (remember you are not testing him).
         * Has he earned any merit badges that will help him in his choice of occupation?
         * What merit badge did he enjoy working on the most  - why?
